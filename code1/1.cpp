@@ -146,6 +146,7 @@ void fany(T arg, const hello &...rest)
 
 void solve(int tc) 
 {
+    cout<<tc<<endl;
    
 }
 
